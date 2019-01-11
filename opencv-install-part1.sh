@@ -1,4 +1,5 @@
 #!/bin/bash
+# Run with sudo: sudo opencv-install-part1.sh
 
 # Update software package listing
 apt-get -y update
